@@ -41,10 +41,11 @@ LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001650142451"))
 
 # A name for your Music bot.
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "MOBI_Play")
+#1792398260
 
 # Your User ID.
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "1792398260").split())
+    map(int, getenv("OWNER_ID", "870768783").split())
 )  # Input type must be interger
 
 # Get it from http://dashboard.heroku.com/account
